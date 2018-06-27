@@ -1,0 +1,7 @@
+LCD Info Display ran by Raspberry Pi in Python.
+It display 3 types of info:
+1st: the time and date 
+2nd: the temperature degrees in Celsius of Vancouver and the detail of the weather. 
+3rd: the device’s local IP and global IP
+
+The information is changed by using the a push switch (button) on the GPIO board.
